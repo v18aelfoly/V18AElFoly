@@ -13,11 +13,11 @@
 
 - 👯 I’m looking to collaborate on **open-source Flutter projects**
 
-- 🤝 I’m looking for help with **Flutter best practices & animations**
+- 🤝 I’m looking for help with **Flutter best practices**
 
 - 📫 How to reach me: **ahmed.elfole.pr.ieee@gmail.com**
 
-- ⚡ Fun fact: *I drink too much coffee while debugging 🧠☕*
+- ⚡ Fun fact: *I talk to my code like it's going to listen*
 
 ---
 
